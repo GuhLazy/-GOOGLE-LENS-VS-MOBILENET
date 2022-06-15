@@ -1,0 +1,18 @@
+#label_1{
+    color:red;
+    font-size: 25px;
+}
+#label_2{
+    font-size:20px;
+}
+canvas{
+    border:5px solid grey;
+    border-radius: 20px;
+    animation-name: example;
+    animation-duration: 4s;
+    margin-top: 190px;
+    animation-iteration-count: infinite;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 150px;
+    background-color: grey;
+}
